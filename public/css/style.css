@@ -1,0 +1,27 @@
+/*
+override css
+*/
+.bg-light {
+    background-color: #d3d3eb!important;
+}
+
+
+
+
+/*
+user css
+ */
+
+.margin-top-20{
+  margin-top: 20px;
+}
+
+.feature-img{
+  max-height: 200px;
+}
+
+.footer-bottom{
+  padding: 20px;
+  margin-top: 20px;
+  background: #d3d3eb;
+}

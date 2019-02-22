@@ -1,0 +1,17 @@
+{
+  "logger": {
+    "title": "Remote Sync"
+  },
+  "uploadOnSave": true,
+  "useAtomicWrites": false,
+  "deleteLocal": false,
+  "target": "home/imrangroups/Laravel/",
+  "ignore": [
+    ".remote-sync.json",
+    ".git/**"
+  ],
+  "username": "imrans@imrangroups.com",
+  "password": "Hlso}z$vssSJ",
+  "watch": [],
+  "transport": "ftp"
+}
