@@ -20,7 +20,7 @@
 </head>
 
 <body>
-  <div class="container-scroller"> 
+  <div class="container-scroller">
     <!-- partial:partials/_navbar.html -->
     <nav class="navbar default-layout col-lg-12 col-12 p-0 fixed-top d-flex flex-row">
       <div class="text-center navbar-brand-wrapper d-flex align-items-top justify-content-center">
@@ -31,7 +31,7 @@
           <img src="{{asset('images/admin/logo-mini.svg')}}" alt="logo" />
         </a>
       </div>
-        
+
       <div class="navbar-menu-wrapper d-flex align-items-center">
         <ul class="navbar-nav navbar-nav-left header-links d-none d-md-flex">
           <li class="nav-item">
@@ -176,7 +176,7 @@
                   <div class="py-3 px-4 d-flex align-items-center justify-content-center">
                     <i class="mdi mdi-alarm-check mr-0 text-gray"></i>
                   </div>
-                </div>
+                </div> 
               </a>
               <a class="dropdown-item mt-2">
                 Manage Accounts
