@@ -176,7 +176,7 @@
                   <div class="py-3 px-4 d-flex align-items-center justify-content-center">
                     <i class="mdi mdi-alarm-check mr-0 text-gray"></i>
                   </div>
-                </div> 
+                </div>
               </a>
               <a class="dropdown-item mt-2">
                 Manage Accounts
